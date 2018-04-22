@@ -18,9 +18,15 @@ def main():
         HelloPy2.py 
 
         Print out a welcome string
-s
     """
-    print("Hello Visual Studio from Python 2.7")
+    print("Create AWS-User object to manage Access Keys programically")
+    print("Link below has instructions for rotating Access Keys")
+    print("Be able to process downloaded CSV file for keys")
+
+    """
+    https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html?icmpid=docs_iam_console
+    https://aws.amazon.com/blogs/security/how-to-rotate-access-keys-for-iam-users/
+    """
 
 
 #=========================================================================== 
